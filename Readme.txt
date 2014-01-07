@@ -1,0 +1,1 @@
+This is a sample project to learn GitHub so that I can setup my own projects.
